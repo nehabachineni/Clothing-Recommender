@@ -1,0 +1,20 @@
+train : dress/images/train/
+val : dress/images/val/
+
+nc : 13
+
+names : [
+ 'short sleeve top',
+ 'long sleeve top',
+ 'short sleeve outwear',
+ 'long sleeve outwear',
+ 'vest',
+ 'sling',
+ 'shorts',
+ 'trousers',
+ 'skirt',
+ 'short sleeve dress',
+ 'long sleeve dress',
+ 'vest dress',
+ 'sling dress'
+ ]
